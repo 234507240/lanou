@@ -23,6 +23,7 @@
     
     
     NSLog(@"nimeide ");
+    NSLog(@"shaca");
     return YES;
 }
 
